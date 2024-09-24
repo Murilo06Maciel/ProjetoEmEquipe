@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
-      "projectName": "Cronômetro",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Gerar_Senhas\\Gerar_Senhas.csproj",
+      "projectName": "Gerar_Senhas",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Gerar_Senhas\\Gerar_Senhas.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Gerar_Senhas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

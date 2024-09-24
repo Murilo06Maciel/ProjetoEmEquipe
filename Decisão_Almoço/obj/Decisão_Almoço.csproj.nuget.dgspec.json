@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj": {}
+    "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\Decisão_Almoço\\Decisão_Almoço.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj": {
+    "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\Decisão_Almoço\\Decisão_Almoço.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
-        "projectName": "Cronômetro",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\Decisão_Almoço\\Decisão_Almoço.csproj",
+        "projectName": "Decisão_Almoço",
+        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\Decisão_Almoço\\Decisão_Almoço.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\Decisão_Almoço\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -21,4 +21,4 @@ Identificar como usa ferramentas comoo __fork__, __star__, e outros. Para que te
 - Atividade 7
  
 # Conclusão
-Com esse tipo de trabalho, se ressalta a importância de desenvolver o trabalho em equipe. Para nos preparar para o mundo do trabalho. 
+Com esse tipo de trabalho, se ressalta a importância de desenvolver o trabalho em equipe. Para nos preparar para o mundo do trabalho. As empresas estão adotando cada vez mais o aprimoramento do trabalho em equipe porque oferece muitos benefícios tanto para a empresa quanto para os trabalhadores; isso inclui economia de dinheiro, um melhor clima organizacional e um aumento na produtividade e engajamento da equipe. Ter uma equipe unida que trabalha junta e se ajuda pode ser considerado um fator competitivo no mercado de trabalho porque aumenta o sentimento de pertencimento a uma empresa e diminui a rotatividade de funcionários (Turnover).

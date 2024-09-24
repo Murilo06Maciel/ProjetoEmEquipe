@@ -1,0 +1,14 @@
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\bin\Debug\net8.0\Decisão_Almoço.exe
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\bin\Debug\net8.0\Decisão_Almoço.deps.json
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\bin\Debug\net8.0\Decisão_Almoço.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\bin\Debug\net8.0\Decisão_Almoço.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\bin\Debug\net8.0\Decisão_Almoço.pdb
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\refint\Decisão_Almoço.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.pdb
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\Decisão_Almoço.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\Decisão_Almoço\obj\Debug\net8.0\ref\Decisão_Almoço.dll
