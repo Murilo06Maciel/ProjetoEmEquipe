@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Decisão_Almoço/1.0.0": {
+        "runtime": {
+          "Decisão_Almoço.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decisão_Almoço/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
