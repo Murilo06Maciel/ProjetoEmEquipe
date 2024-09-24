@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Simulador_de_dados\\Simulador_de_dados.csproj",
-      "projectName": "Simulador_de_dados",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Simulador_de_dados\\Simulador_de_dados.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\ProjetoEmEquipe\\Adivinhar_Números\\Adivinhar_Números.csproj",
+      "projectName": "Adivinhar_Números",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\ProjetoEmEquipe\\Adivinhar_Números\\Adivinhar_Números.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\Davi Kokke\\ProjetoEmEquipe\\Simulador_de_dados\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documents\\murilo\\ProjetoEmEquipe\\Adivinhar_Números\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
