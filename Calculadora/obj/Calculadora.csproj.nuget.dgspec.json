@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj": {
+    "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
-        "projectName": "Cronômetro",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\Cronômetro.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Cronômetro\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\maristela\\ProjetoEmEquipe\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
