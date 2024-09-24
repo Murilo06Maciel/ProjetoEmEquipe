@@ -10,4 +10,5 @@ do
         opcao = Console.ReadLine().ToLower();
 
     } while (opcao == "s");
+
         Console.WriteLine("Encerrando o programa.");

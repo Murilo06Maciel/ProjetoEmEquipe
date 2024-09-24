@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulador_de_dados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f701d6bd99eb92edc012262e45ca7e23d8047e4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd7fa24c6d03fdce2cf394e79f9d99787aa4998")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulador_de_dados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulador_de_dados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
