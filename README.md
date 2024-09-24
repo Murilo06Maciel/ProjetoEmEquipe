@@ -1,5 +1,5 @@
 # Lista de exercícios
-Identificar como usa ferramentas comoo __fork__, __star__, e outros. Para que temos conhecimento dos mesmos caso preciso em ocasiôes futuras.
+Identificar como usa ferramentas como __fork__, __star__, __pull request__, e ourtos. Para que temos conhecimento dos mesmos caso preciso em ocasiôes futuras.
 
 # Parâmetros
 - Atividade 1 - Desenvolvimento de uma calculadora que peça ao usuário para definir dois números e uma operação simples (+; -; *; /).
