@@ -11,14 +11,15 @@ Identificar como usa ferramentas como __fork__, __star__, __pull request__, e ou
 
 ## Etapas implementadas
 - Atividade 1
+- Atividade 2
 - Atividade 3
 - Atividade 4
 - Atividade 5
 - Atividade 6
+- Atividade 7
 - Atividade 8
 ## Backlog
-- Atividade 2
-- Atividade 7
+- Outras atividade (s)
  
 # Conclusão
 Com esse tipo de trabalho, se ressalta a importância de desenvolver o trabalho em equipe. Para nos preparar para o mundo do trabalho. As empresas estão adotando cada vez mais o aprimoramento do trabalho em equipe porque oferece muitos benefícios tanto para a empresa quanto para os trabalhadores; isso inclui economia de dinheiro, um melhor clima organizacional e um aumento na produtividade e engajamento da equipe. Ter uma equipe unida que trabalha junta e se ajuda pode ser considerado um fator competitivo no mercado de trabalho porque aumenta o sentimento de pertencimento a uma empresa e diminui a rotatividade de funcionários (Turnover).
